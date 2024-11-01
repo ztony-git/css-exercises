@@ -1,0 +1,18 @@
+.baseclass {
+    background-color: rgb(255, 117, 117);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondelement {
+    color: hsl(238, 100%, 50%);
+    font-size: 36px;
+}
+
+.coolclass {
+    font-size: 24px;
+}
+
+#fourthelement {
+    background-color: #12ff65;
+    font-weight: bold;
+}
